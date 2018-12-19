@@ -1,5 +1,10 @@
 package main
 
+import (
+	"fmt"
+
+	"github.com/Pluto-the-Pluto/HelloWorld"
+)
 func main() {
-   println("Hello World")
+   fmt.println("Hello World")
 }
